@@ -1,7 +1,8 @@
 For testing on your own machine, you need to install the following libraries.
 
 First clone
-- git clone
+- git clone https://github.com/ahmedshabib/cs7641-assignment2
+- cd cs7641-assignment2
 - git clone https://github.com/pushkar/ABAGAIL
 - cd AGAGAIL
 - ant
@@ -12,6 +13,7 @@ First clone
 - java -cp AGAGAIL.jar phishing_ga_val.java
 - java -cp AGAGAIL.jar phishingwebsite_finaltest.java
 
+## For Part 2
 ### 1. Traveling Salesman Problem - Highlights GA
 - java -cp ABAGAIL.jar opt.test.TravelingSalesman_Toy
 ### 2. Continuous Peaks Problem - Highlights SA
