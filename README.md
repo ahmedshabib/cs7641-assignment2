@@ -1,6 +1,6 @@
 For testing on your own machine, you need to install the following libraries.
 
-First clone
+Steps to reproduce the results
 - git clone https://github.com/ahmedshabib/cs7641-assignment2
 - cd cs7641-assignment2
 - git clone https://github.com/pushkar/ABAGAIL
